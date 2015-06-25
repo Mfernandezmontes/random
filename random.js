@@ -7,4 +7,5 @@ if (numero <= 0.5){
   str = ' MENOR que 0,5';
 }
 
+//Añadimos comentarios
 console.log('\n' + numero + str + '\n');
